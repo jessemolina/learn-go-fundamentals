@@ -1,0 +1,6 @@
+#+TITLE: Learn Go Fundaments
+
+This is currently a Work-in-Progress!
+
+* Objective
+The goal of this project is to cover the basics and core fundamentals of the Go programming language.
